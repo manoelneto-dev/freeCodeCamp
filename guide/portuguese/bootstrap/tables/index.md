@@ -19,7 +19,7 @@ Para obter o exemplo de estilo básico, inclua a classe base `.table` em qualque
 
 * * *
 
-#### Mesa Listrada
+#### Tabela Listrada
 
 Para obter o efeito de linha listrada (zebra-striping) em tabelas, use `.table-striped` em adição a `.table` em qualquer elemento `<table>` . As tabelas distribuídas são estilizadas por meio do seletor CSS `:nth-child` , que não está disponível no Internet Explorer 8.
 ```
@@ -28,11 +28,11 @@ Para obter o efeito de linha listrada (zebra-striping) em tabelas, use `.table-s
  </table> 
 ```
 
-![Mesa listrada](https://github.com/TroyB12/Pictures/blob/master/Table%20Striped.PNG)
+![Tabela listrada](https://github.com/TroyB12/Pictures/blob/master/Table%20Striped.PNG)
 
 * * *
 
-#### Mesa delimitada
+#### Tabela delimitada
 
 Para alcançar a tabela de bordas use `.table-bordered` além de `.table` em qualquer elemento `<table>` .
 ```
@@ -41,11 +41,11 @@ Para alcançar a tabela de bordas use `.table-bordered` além de `.table` em qua
  </table> 
 ```
 
-![Bordered Table](https://github.com/TroyB12/Pictures/blob/master/Table%20Bordered.PNG)
+![Tabela delimitada](https://github.com/TroyB12/Pictures/blob/master/Table%20Bordered.PNG)
 
 * * *
 
-#### Mesa Hover
+#### Tabela Hover
 
 Para obter o efeito de hover row nas tabelas, use `.table-bordered` além de `.table` em qualquer elemento `<table>` .
 ```
@@ -58,7 +58,7 @@ Para obter o efeito de hover row nas tabelas, use `.table-bordered` além de `.t
 
 * * *
 
-#### Mesa condensada
+#### Tabela condensada
 
 Para obter a tabela condensada use `.table-condensed` além de `.table` em qualquer elemento `<table>` .
 ```
@@ -67,7 +67,7 @@ Para obter a tabela condensada use `.table-condensed` além de `.table` em qualq
  </table> 
 ```
 
-![Mesa Condensada](https://github.com/TroyB12/Pictures/blob/master/Table%20Condensed.PNG)
+![Tabela Condensada](https://github.com/TroyB12/Pictures/blob/master/Table%20Condensed.PNG)
 
 * * *
 
