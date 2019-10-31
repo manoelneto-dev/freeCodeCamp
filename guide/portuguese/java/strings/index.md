@@ -1,8 +1,8 @@
 ---
 title: Strings
-localeTitle: Cordas
+localeTitle: Strings
 ---
-# Cordas
+# Strings
 
 Strings são seqüências de caracteres. Em Java, uma `String` é um `Object` . As strings não devem ser confundidas com `char` pois os caracteres são literalmente 1 valor em vez de uma sequência de caracteres. Você ainda pode usar 1 valor dentro de uma String, no entanto, é preferível usar `char` quando você está verificando 1 caractere.
 
@@ -63,7 +63,7 @@ public class StringExample{
  } 
 ```
 
-#### Comparando Cordas
+#### Comparando Strings
 
 Se você quiser comparar o valor de duas variáveis ​​String, não será possível usar ==. Isso se deve ao fato de que isso vai comparar as referências das variáveis e não os valores que estão ligados a eles. Para comparar os valores armazenados das Strings, você usa o método igual a.
 
