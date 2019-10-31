@@ -90,4 +90,8 @@ Para obter cores personalizadas para usar em CSS, você pode achar útil um sele
 
 #### Mais Informações:
 
-[Adobe Color CC](https://color.adobe.com/) [ColorPick Eyedropper na Chrome Web Store](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en) [Complemento do ColorZilla para o Firefox](https://addons.mozilla.org/en-US/firefox/addon/colorzilla/) [Explore diferentes cores hexadecimais](http://www.colorhexa.com/) [Verificador de contraste de cor WebAIM](https://webaim.org/resources/contrastchecker/)
+[Adobe Color CC](https://color.adobe.com/) 
+[ColorPick Eyedropper na Chrome Web Store](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en) 
+[Complemento do ColorZilla para o Firefox](https://addons.mozilla.org/en-US/firefox/addon/colorzilla/) 
+[Explore diferentes cores hexadecimais](http://www.colorhexa.com/) 
+[Verificador de contraste de cor WebAIM](https://webaim.org/resources/contrastchecker/)
